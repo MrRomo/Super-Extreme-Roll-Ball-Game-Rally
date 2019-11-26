@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "198059795647",
+    "firebase_url": "https://extremeball-f2739.firebaseio.com",
+    "project_id": "extremeball-f2739",
+    "storage_bucket": "extremeball-f2739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198059795647:android:493b23156368f622",
+        "android_client_info": {
+          "package_name": "com.extremeball.solidgames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198059795647-tigtp80o5euji9h2odik1kuqncf6kinv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNjlA8sOqWU2pJHicQn_6YXtDCWf57Vp8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

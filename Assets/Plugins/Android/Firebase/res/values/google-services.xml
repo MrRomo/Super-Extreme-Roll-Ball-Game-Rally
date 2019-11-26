@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://extremeball-f2739.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">198059795647</string>
+  <string name="google_storage_bucket" translatable="false">extremeball-f2739.appspot.com</string>
+  <string name="project_id" translatable="false">extremeball-f2739</string>
+  <string name="google_api_key" translatable="false">AIzaSyDNjlA8sOqWU2pJHicQn_6YXtDCWf57Vp8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDNjlA8sOqWU2pJHicQn_6YXtDCWf57Vp8</string>
+  <string name="google_app_id" translatable="false">1:198059795647:android:493b23156368f622</string>
+  <string name="default_web_client_id" translatable="false">198059795647-tigtp80o5euji9h2odik1kuqncf6kinv.apps.googleusercontent.com</string>
+</resources>

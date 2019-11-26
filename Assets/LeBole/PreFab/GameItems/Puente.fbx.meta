@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: ea7ea206d3a7a5041b5b57b31827c91e
+timeCreated: 1515142143
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Barandas
+    100002: Barandilla
+    100004: Barandilla2
+    100006: Cilindro
+    100008: Cilindro_1
+    100010: Cilindro_2
+    100012: Cilindro_3
+    100014: Cilindro_4
+    100016: Cilindro_5
+    100018: Cilindro_6
+    100020: Cilindro_7
+    100022: Cilindro_8
+    100024: Cilindro_9
+    100026: Cuerda
+    100028: Cuerda_1
+    100030: //RootNode
+    100032: Tabla_1
+    400000: Barandas
+    400002: Barandilla
+    400004: Barandilla2
+    400006: Cilindro
+    400008: Cilindro_1
+    400010: Cilindro_2
+    400012: Cilindro_3
+    400014: Cilindro_4
+    400016: Cilindro_5
+    400018: Cilindro_6
+    400020: Cilindro_7
+    400022: Cilindro_8
+    400024: Cilindro_9
+    400026: Cuerda
+    400028: Cuerda_1
+    400030: //RootNode
+    400032: Tabla_1
+    2300000: Cilindro
+    2300002: Cilindro_1
+    2300004: Cilindro_2
+    2300006: Cilindro_3
+    2300008: Cilindro_4
+    2300010: Cilindro_5
+    2300012: Cilindro_6
+    2300014: Cilindro_7
+    2300016: Cilindro_8
+    2300018: Cilindro_9
+    2300020: Cuerda
+    2300022: Cuerda_1
+    2300024: Tabla_1
+    3300000: Cilindro
+    3300002: Cilindro_1
+    3300004: Cilindro_2
+    3300006: Cilindro_3
+    3300008: Cilindro_4
+    3300010: Cilindro_5
+    3300012: Cilindro_6
+    3300014: Cilindro_7
+    3300016: Cilindro_8
+    3300018: Cilindro_9
+    3300020: Cuerda
+    3300022: Cuerda_1
+    3300024: Tabla_1
+    4300000: Cilindro_9
+    4300002: Cilindro_8
+    4300004: Cilindro_7
+    4300006: Cilindro_6
+    4300008: Cilindro_5
+    4300010: Cuerda
+    4300012: Cuerda_1
+    4300014: Cilindro_4
+    4300016: Cilindro_3
+    4300018: Cilindro_2
+    4300020: Cilindro_1
+    4300022: Cilindro
+    4300024: Tabla_1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: fb118b6015249dc4c9566250ae319135, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
